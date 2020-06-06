@@ -1,0 +1,1 @@
+Adding changes and then commit, later update and Reset
